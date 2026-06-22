@@ -20,7 +20,7 @@ Every time a transaction is made, the system automatically updates the product s
 ### Execution Steps
 1. Open your terminal and navigate to the project's root directory:
    ```bash
-   cd POO_FinalProject_VideoGameStore
+   cd POO_FinalProject_Puerta_Villarreal
    javac -d bin data/*.java domain/*.java ui/*.java
    java -cp bin ui.Main
 
